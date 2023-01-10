@@ -1,0 +1,21 @@
+Fabricante - Samsung
+---------------------
+- memoria: inteiro				Memoria -> 64Gb
+- sistema operacional: string			Sistema operacional-> Android - polegada: float				Polegadas-> 8.5
+-----------------------------
++ligar { string:valor}
++caregar {}
++wifi {string:senha}
+
+------------------------------fim
+
+
+Boleto do banco
+----------------------
+-código de barra:string				Código de barra: 45678.09876-valor: float					Valor: R$297,87
+-data de vencimento:string			Data de Vencimento: 22/01/2023-----------------------------
+pagar{}
+aplicar juros{float:valor}
+--------------------------------fim
+
+

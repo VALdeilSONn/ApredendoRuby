@@ -1,0 +1,22 @@
+Especifique as classes abaixo, indicando visibilidade, atributos,
+metodos e parametros. Ao fim, vislumbre 2 instancias/objetos para
+as classes criadas.
+
+*Tablet
+*Boleto Bancario
+
+
+'Classe é um gabarito para definir objetos'
+Através da definição de uma classe, descreve-se que
+propriedades/atributos e metodos/ações o objeto terá
+
+Em resumo..
+Uma classe representa um conjunto de objetos com características afins
+Uma classe define o comportamento dos objetos através de seus metodos,
+e quais esrados ele é capaz de manter através de seus atributos.
+
+classe pessoa
+objeto - Homem
+atributos - jackson, olho claro, gordo/magro, cabelo curto/longo etc..
+metodos - andar, pular, correr, falar, etc...
+
